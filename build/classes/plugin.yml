@@ -1,0 +1,8 @@
+name: EpicBook
+main: lvhaoxuan.epic.book.EpicBook
+version: 1.0
+author: lvhaoxuan
+depend: [LLib]
+softdepend: [MythicMobs, PlayerPoints, AttributePlus, SX-Attribute]
+commands:
+    eb:
